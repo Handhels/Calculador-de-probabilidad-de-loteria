@@ -1,0 +1,1 @@
+le solicitaremos las ultimas combinaciones al usuario para tener una base de donde calcular la probabilidad a salir que tienen los numeros.
